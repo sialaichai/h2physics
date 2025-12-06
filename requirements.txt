@@ -1,0 +1,9 @@
+streamlit>=1.41.0
+google-generativeai
+matplotlib
+numpy
+Pillow
+scipy
+gTTS
+duckduckgo-search>=6.0.0
+requests
