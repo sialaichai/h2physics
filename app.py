@@ -207,7 +207,7 @@ with st.sidebar:
     st.image("https://upload.wikimedia.org/wikipedia/en/4/42/Richard_Feynman_Nobel.jpg)", width=150)
     
     st.header("⚙️ Settings")
-    topic = st.selectbox("Topic:", ["General / Any", "Measurement & Uncertainty", "Kinematics & Dynamics", 
+    topic = st.selectbox("Topic:", ["General / An", "Measurement & Uncertainty", "Kinematics & Dynamics", 
          "Forces & Turnings Effects", "Work, Energy, Power", "Circular Motion", 
          "Gravitational Fields", "Thermal Physics", "Oscillations & Waves", 
          "Electricity & DC Circuits", "Electromagnetism (EMI/AC)", "Modern Physics (Quantum/Nuclear)", 
